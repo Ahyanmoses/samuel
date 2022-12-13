@@ -1,0 +1,4 @@
+{
+  "metrics.flagstat.input_sam": "/Users/louisecabansay/gitOrgs/dockstore-training/bcc2020/wdl-training/exercise2/mini.sam",
+  "metrics.flagstat.docker_image": "public.ecr.aws/c2g9x2v2/dazat"
+}
